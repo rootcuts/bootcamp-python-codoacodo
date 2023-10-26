@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Univerze</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
+    <link rel="icon" type="/image/x-icon" href="/images/icons/galaxy.png" sizes="16x16">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="/js/script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/pages/news.html">News</a></li>
+                <li><a href="/pages/today.html">Daily Notices</a></li>
+                <li><a href="/pages/gallery.html">Gallery</a></li>
+                <li><a href="/pages/planets.html">Planets</a></li>
+                <li><a href="/pages/events.html">Events</a></li>
+                <li><a href="/pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="center-content">
+        <h2>We'd Love to Hear from You!</h2>
+        
+        <p>If you have questions, comments, or want to share your own experiences related to planets and astrology, feel free to get in touch with us.</p>
+        
+        <div class="form-container">
+            <form id="contact-form" action="https://formspree.io/androidblock@proton.me" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                
+                <button type="submit">Send</button>
+                <div id="form-status">Thanks for Contacting Us!</div>
+            </form>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2023 <a href="https://universe.nasa.gov/" target="_blank">Univerze</a> | Contact: info@univerze.com</p>
+
+        <div class="social-icons">
+            <a href="https://www.facebook.com/NASA/" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/NASA" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/nasa/" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
+</body>
+</html>
