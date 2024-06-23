@@ -1,9 +1,9 @@
-Final proyect for Front End and Back End in CodoaCodo program Bootcamp Full Stack Python. 
+## Final Project of the Python Bootcamp at CodoaCodo
 
-Do you want to see? 
-
-Click Me >>> https://univerze.netlify.app/
+Welcome to my repository for the final project of the Python bootcamp at CodoaCodo!
+This repository showcases my final project developed as part of the Python bootcamp at CodoaCodo. Here, you can explore and learn about project development using HTML, CSS, JavaScript and Python, covering various concepts and techniques from basic layouts to more advanced design challenges.
 
 [![webpage.png](https://i.postimg.cc/nc3JTLxR/webpage.png)](https://postimg.cc/JGHvzMGZ)
 
+Project Link: [Univerze](https://univerze-iamtiedev.netlify.app/)
 
