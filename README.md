@@ -5,5 +5,5 @@ This repository showcases my final project developed as part of the Python bootc
 
 [![webpage.png](https://i.postimg.cc/nc3JTLxR/webpage.png)](https://postimg.cc/JGHvzMGZ)
 
-Project Link: [Univerze](https://univerze-iamtiedev.netlify.app/)
+Project Link: [Univerze](https://univerze-rootcut.netlify.app/)
 
